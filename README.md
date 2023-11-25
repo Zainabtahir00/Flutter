@@ -1,31 +1,3 @@
-Skip to content
-Zainabtahir00
-/
-flutter-Start
-
-Type / to search
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Commit
-Update README.md
- main
-@Zainabtahir00
-Zainabtahir00 committed on Sep 8 
-1 parent f649fd2
-commit 33cbcf0
-Showing 1 changed file with 31 additions and 1 deletion.
- 32 changes: 31 additions & 1 deletion32  
-README.md
-@@ -1 +1,31 @@
-# flutter-Start
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Zainab Tahir</h1>
 <h3 align="center">Andriod Developer (Flutter)</h3>
@@ -57,24 +29,3 @@ README.md
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainabtahir00&show_icons=true&locale=en" alt="zainabtahir00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainabtahir00&" alt="zainabtahir00" /></p>
-0 comments on commit 33cbcf0
-@Zainabtahir00
-Comment
- 
-Leave a comment
- 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Update README.md · Zainabtahir00/flutter-Start@33cbcf0
